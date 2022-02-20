@@ -1,0 +1,6 @@
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\bin\Debug\LibrarySquare.dll
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\bin\Debug\LibrarySquare.pdb
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\obj\Debug\LibrarySquare.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\obj\Debug\LibrarySquare.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\obj\Debug\LibrarySquare.dll
+C:\Users\Анастасия\source\repos\LibrarySquare\LibrarySquare\obj\Debug\LibrarySquare.pdb
