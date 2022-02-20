@@ -1,0 +1,11 @@
+SELECT Product.name AS product, Category.name AS category
+FROM 
+(
+Product LEFT JOIN ProductCategory 
+ON ProductCategory.product_id=Product.product_id
+) 
+LEFT JOIN Category 
+ON Category.category_id=ProductCategory.category_id;
+
+
+-- Таблицы Product, Category, ProductCategory представлены на схеме
